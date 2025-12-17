@@ -1,7 +1,7 @@
-## Hi there 👋
+<!DOCTYPE html>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=100&text=Hi! Welcome&color=0:ecdccf,100:65bbcc"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&text=Hi! Welcome to my Github!&color=0:ecdccf,100:65bbcc"/>
 </p>
 
 <!--

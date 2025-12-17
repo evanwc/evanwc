@@ -1,23 +1,32 @@
 <!DOCTYPE html>
 
-<!-- <p align="center"> -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ecdccf,100:65bbcc&height=100&text=Hi! Welcome to my Github!"/>
-<!-- </p> -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:fbe2c1,100:54a6ca&text=&section=header"/>
 
-<h2>Skills 🛠️</h2>
+<h2>🎐 Hi! Welcome to my Github! ✨</h2>
+<p>✩ My name is Evan Cheng</p>
+<p>✩ I am a graduate student looking for a Software Engineer internship</p>
+<p>✩ I am interested in frontend, web dev, and web accessibility</p>
+
+<h2>🛠️ Skills</h2>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,py,github,cpp,html,css,ps" />
   </a>
 </p>
 
-<h2>Currently Learning 📖</h2>
+<h2>📖 Currently Learning</h2>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,aws,react,django,postgres,mysql" />
   </a>
 </p>
 
+<h2>😀 Connect With Me</h2>
+<a href="https://www.linkedin.com/in/evan-w-cheng/">
+  <img height="50" src="https://cdn.iconscout.com/icon/free/png-256/free-linkedin-logo-icon-svg-download-png-1581908.png"/>
+</a>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:fbe2c1,100:54a6ca&text=&fontSize=35&fontColor=ffffff&section=footer"/>
 <!--
 **evanwc/evanwc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

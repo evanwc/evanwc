@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&text=Hi! Welcome&"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&text=Hi! Welcome"/>
 </p>
 
 <!--

@@ -1,8 +1,12 @@
 <!DOCTYPE html>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&text=Hi! Welcome to my Github!&color=0:ecdccf,100:65bbcc"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ecdccf,100:65bbcc&height=100&text=Hi! Welcome to my Github!"/>
 </p>
+
+[![Skills](https://skillicons.dev/icons?i=java,py,github,cpp,html,css,ps)](https://skillicons.dev)
+
+[![Learning](https://skillicons.dev/icons?i=figma,aws,react,django,postgres,mysql)](https://skillicons.dev)
 
 <!--
 **evanwc/evanwc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

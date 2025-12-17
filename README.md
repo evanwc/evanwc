@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hi! Welcome&animation=fadeIn&type=venom&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&text=Hi! Welcome&"/>
 </p>
 
 <!--

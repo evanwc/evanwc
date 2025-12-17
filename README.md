@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 
-<p align="center">
+<!-- <p align="center"> -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ecdccf,100:65bbcc&height=100&text=Hi! Welcome to my Github!"/>
-</p>
+<!-- </p> -->
 
+<h2>Skills</h2>
 [![Skills](https://skillicons.dev/icons?i=java,py,github,cpp,html,css,ps)](https://skillicons.dev)
 
+<h2>Currently Learning</h2>
 [![Learning](https://skillicons.dev/icons?i=figma,aws,react,django,postgres,mysql)](https://skillicons.dev)
 
 <!--

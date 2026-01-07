@@ -4,7 +4,7 @@
 
 <h2>🎐 Hi! Welcome to my Github! ✨</h2>
 <p>✩ My name is Evan Cheng</p>
-<p>✩ I am a graduate student looking for a Software Engineer internship</p>
+<p>✩ I am a graduate student looking for a software engineering or related internship</p>
 <p>✩ I am interested in frontend, web dev, and web accessibility</p>
 
 <h2>🛠️ Skills</h2>

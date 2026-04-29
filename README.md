@@ -3,9 +3,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:fbe2c1,100:54a6ca&text=&section=header"/>
 
 <h2>🎐 Hi! Welcome to my Github! ✨</h2>
-<p>✩ My name is Evan Cheng</p>
-<p>✩ I am a graduate student looking for a software engineering or related internship</p>
-<p>✩ I am interested in frontend, web dev, and web accessibility</p>
+<p>✩ I'm Evan, a computer science graduate student interested in AI, computer vision, human-computer interaction, frontend development, and web accessibility</p>
+<p>✩ Currently looking for an internship role in software engineering or product management</p>
 
 <h2>🛠️ Skills</h2>
 <p align="left">
